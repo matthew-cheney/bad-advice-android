@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bad Advice</string>
+    <string name="question_hint">enter a yes/no question</string>
+    <string name="question_button">ask question</string>
+</resources>
